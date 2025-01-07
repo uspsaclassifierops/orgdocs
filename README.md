@@ -53,38 +53,33 @@ This repository contains both the current and proposed bylaws for the United Sta
 
 ## Repository Structure
 
-### Main Branch
-The main branch contains the current official bylaws:
-- `bylaws.md`: The current official USPSA bylaws
+### Core Documents
+- `current_bylaws.md`: The current official USPSA bylaws
+- `draft_bylaws.md`: Proposed new bylaws incorporating governance modernization changes
 
-### Draft-Revision Branch
-The draft-revision branch contains the proposed revisions and comparison documentation:
-- `bylaws.md`: Proposed new bylaws with governance structure changes
-- `bylaws_comparison.md`: Detailed comparison document highlighting key changes
+### Change Documentation
+- `bylaws_compare.md`: Detailed side-by-side comparison of changes between current and draft bylaws, with clear markup showing additions, deletions, and modifications
+- `bylaws_change_summary.md`: High-level overview of key changes and their rationale
 
-### How to View Changes
-1. **Direct Comparison**: Visit our [comparison view](https://github.com/uspsaclassifierops/orgdocs/compare/main...draft-revision) to see all changes between versions
-   - Green highlights indicate new or modified text
-   - Red highlights indicate removed text
-2. **Individual Files**: 
-   - View current bylaws in the main branch
-   - View proposed changes in the draft-revision branch
-3. **Detailed Analysis**: Use the comparison document (`bylaws_comparison.md`) in the draft-revision branch for a detailed breakdown of changes with explanations
+### How to Review Changes
+1. **Quick Overview**: Start with `bylaws_change_summary.md` for a high-level understanding of the major changes
+2. **Detailed Changes**: Use `bylaws_compare.md` to see specific changes with detailed comparisons
+3. **Full Documents**: Reference `current_bylaws.md` and `draft_bylaws.md` for complete context
 
-### Branch Organization
+### Document Organization
 ```
-main (production branch)
-└── bylaws.md (current version)
-
-draft-revision (proposed changes)
-├── bylaws.md (proposed version)
-└── bylaws_comparison.md
+Repository Root
+├── current_bylaws.md     # Current official bylaws
+├── draft_bylaws.md       # Proposed new bylaws
+├── bylaws_compare.md     # Detailed change comparison
+└── bylaws_change_summary.md  # Overview of key changes
 ```
+
 ### Change History
-All modifications to the bylaws are tracked through Git commit history, allowing for complete transparency in the revision process. Each change includes:
-- What was modified
-- When it was modified
-- Commit messages explaining the reasons for changes
+All modifications are tracked through Git commit history, providing:
+- Transparent record of changes
+- When changes were made
+- Commit messages explaining modifications
 
 ## Timeline and Process
 1. Initial release of proposed bylaws for member review - 22DEC2024
