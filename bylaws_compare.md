@@ -1,717 +1,429 @@
 # USPSA Bylaws Comparison Document
 
 ## How to Read This Document
-- <span style="background-color: #e6ffe6">Green highlighting indicates new or modified text</span>
-- <span style="background-color: #ffe6e6">Red highlighting indicates removed text</span>
-- Unchanged text remains unformatted
+
+Changes are marked as follows:
+- ➕ Additions or new content
+- ❌ Removed content
+- 📝 Modified content
+
+For specific text changes:
+> 🆕 **New/Modified Version**
+> ```
+> New text shown here
+> ```
+> 
+> 📜 **Current Version**
+> ```
+> Current text shown here
+> ```
 
 ## Article 1 - Name and Organization
 
 ### Section 1.1 Name
-No changes.
+**No changes**
 
 ### Section 1.2 Organization
-No changes.
+**No changes**
 
 ### Section 1.3 Forming and Maintaining this Corporation as Non-Profit
-No changes.
+**No changes**
 
 ## Article 2 - Offices
-No changes.
+**No changes**
 
 ## Article 3 - Objects and Purposes
 
 ### Section 3.3 Revenue
-Current version:
-```
-The corporation expects to receive the bulk of its operating funds from membership dues and 
-activity fees, bequeaths and endowments, and the sale of miscellaneous items bearing the 
-Corporation logo to promote practical shooting.
-```
 
-Proposed version:
-```
-The corporation expects to receive the bulk of its operating funds from membership dues, 
-activity fees, advertising fees, licensing, bequeaths and endowments, and the sale of 
-miscellaneous items bearing the Corporation logo to promote practical shooting.
-```
+📝 **Modified Text**
 
-### Section 3.4 Enfold
-Current version:
-```
-It is the intent of the Corporation to set forth structures, rules, regulations, and to 
-delineate authority and responsibility in order to unite the United States Region, 
-International Practical Shooting Confederation, the USPSA affiliated clubs and sections, 
-the National Range Officers Institute and such other entities...
-```
-
-Proposed version:
-```
-It is the intent of the Corporation to set forth structures, rules, regulations, and to 
-delineate authority and responsibility in order to unite the United States Region of the 
-International Practical Shooting Confederation, with USPSA affiliated clubs and sections, 
-via its organizational structure, including the National Range Officers Institute and 
-such other entities...
-```
+> 🆕 **New Version**
+> ```
+> The corporation expects to receive the bulk of its operating funds from membership dues, 
+> activity fees, advertising fees, licensing, bequeaths and endowments, and the sale of 
+> miscellaneous items bearing the Corporation logo to promote practical shooting.
+> ```
+> 
+> 📜 **Current Version**
+> ```
+> The corporation expects to receive the bulk of its operating funds from membership dues and 
+> activity fees, bequeaths and endowments, and the sale of miscellaneous items bearing the 
+> Corporation logo to promote practical shooting.
+> ```
 
 ## Article 4 - Membership
 
-### Major Changes Summary
-<table>
-<tr>
-<th>Topic</th>
-<th>Current Bylaws</th>
-<th>Proposed Changes</th>
-</tr>
-<tr>
-<td>Membership Types</td>
-<td>
-- Individual (Annual, 3-Year, 5-Year, Life, Benefactor)<br>
-- Associate<br>
-- Foreign<br>
-- Associate Foreign<br>
-- Sponsor<br>
-- Patron<br>
-- Club<br>
-- Honorary Life
-</td>
-<td>
-Simplified to:<br>
-- Individual<br>
-- Club<br>
-- Honorary Life<br>
-- Other as established by Board
-</td>
-</tr>
-<tr>
-<td>Annual Meetings</td>
-<td>Physical meetings at National Championships</td>
-<td>Virtual town hall with 30-day notice</td>
-</tr>
-</table>
+### 📋 Major Changes Summary
+
+#### Membership Types
+➕ **Simplified Structure**
+| Current | Proposed |
+|---------|-----------|
+| - Individual (Annual, 3-Year, 5-Year, Life, Benefactor)<br>- Associate<br>- Foreign<br>- Associate Foreign<br>- Sponsor<br>- Patron<br>- Club<br>- Honorary Life | - Individual<br>- Club<br>- Honorary Life<br>- Other as established by Board |
+
+#### Annual Meetings
+📝 **Changed Format**
+| Current | Proposed |
+|---------|-----------|
+| Physical meetings at National Championships | Virtual town hall with 30-day notice |
 
 ### Section 4.7 Discipline of Membership
+📝 **Process Changes**
 
-<table>
-<tr>
-<th>Aspect</th>
-<th>Current Bylaws</th>
-<th>Proposed Changes</th>
-</tr>
-<tr>
-<td>Initial Action</td>
-<td>President or Board may suspend</td>
-<td>Board may suspend with 3 members' concurrence</td>
-</tr>
-<tr>
-<td>Timeline</td>
-<td>30 days to respond to notification</td>
-<td>Special meeting within 7 days of suspension</td>
-</tr>
-<tr>
-<td>Process</td>
-<td>Written notification with review process</td>
-<td>Member's choice of open or executive session hearing</td>
-</tr>
-<tr>
-<td>Decision Timeline</td>
-<td>Decision within 30 days after review</td>
-<td>Notification within 7 days of Board decision</td>
-</tr>
-</table>
+#### Initial Action
+> 🆕 **New Version**
+> ```
+> The Board of Directors may suspend or terminate any member should they determine 
+> that the member likely has engaged in acts of moral turpitude or has been found 
+> to have violated the organizations code of conduct for members. With the concurrence 
+> of 3 Board members a member may be suspended until a special meeting can be scheduled, 
+> not later than 7 days from the suspension.
+> ```
+>
+> 📜 **Current Version**
+> ```
+> The President or the Board of Directors may suspend any member should they determine 
+> that the member has, or is likely to, by acts or omissions bring discredit to the 
+> Corporation.
+> ```
 
 ## Article 5 - Board of Directors
 
-### Major Structural Changes
-<table>
-<tr>
-<th>Element</th>
-<th>Current Structure</th>
-<th>Proposed Structure</th>
-</tr>
-<tr>
-<td>Composition</td>
-<td>President + Area Directors</td>
-<td>8 Area Directors + 1 Director at Large</td>
-</tr>
-<tr>
-<td>Leadership</td>
-<td>President serves as Board Chair</td>
-<td>Board elects Chair and Vice Chair annually</td>
-</tr>
-<tr>
-<td>Terms</td>
-<td>4-year terms</td>
-<td>3-year terms</td>
-</tr>
-<tr>
-<td>Voting</td>
-<td>Majority of present Directors</td>
-<td>Minimum of 4 votes required for any motion</td>
-</tr>
-</table>
+### 🏛️ Structural Changes
+
+#### Board Composition
+| Element | Current | Proposed |
+|---------|----------|-----------|
+| Members | President + Area Directors | 8 Area Directors + 1 Director at Large |
+| Leadership | President serves as Board Chair | Board elects Chair and Vice Chair annually |
+| Terms | 4-year terms | 3-year terms |
+| Voting Requirements | Majority of present Directors | Minimum of 4 votes required |
 
 ### Section 5.1 Business
-Both versions maintain the Board's responsibility for overall policies and strategic planning. Key differences:
 
-Current version:
-```
-The Board of Directors shall be responsible for directing the overall policies of the 
-Corporation. A primary responsibility of the Board is to provide strategic planning 
-and leadership on key issues to ensure the long-term health and viability of the 
-organization.
-```
+📝 **Strategic Role Definition**
 
-Proposed version adds emphasis on strategic role:
-```
-The Board of Directors shall be responsible for directing the overall policies of the 
-Corporation. A primary responsibility of the Board is to provide strategic planning 
-and leadership on key issues to ensure the long-term health and viability of the 
-organization, with operational execution delegated to professional staff.
-```
+> 🆕 **New Version**
+> ```
+> The Board of Directors shall be responsible for directing the overall policies of 
+> the Corporation. A primary responsibility of the Board is to provide strategic 
+> planning and leadership on key issues to ensure the long-term health and viability 
+> of the organization, with operational execution delegated to professional staff.
+> ```
+>
+> 📜 **Current Version**
+> ```
+> The Board of Directors shall be responsible for directing the overall policies of 
+> the Corporation. A primary responsibility of the Board is to provide strategic 
+> planning and leadership on key issues to ensure the long-term health and viability 
+> of the organization.
+> ```
 
-### Section 5.2 Compensation
+### Section 5.8 Quorum Requirements
 
-<table>
-<tr>
-<th>Current Bylaws</th>
-<th>Proposed Changes</th>
-</tr>
-<tr>
-<td>No Area Director shall serve the Corporation in any other capacity for which compensation is received.</td>
-<td>No Director shall serve the Corporation in any other capacity for which compensation is received except as designated and approved range staff consistent with all other staff.</td>
-</tr>
-</table>
+📝 **Modified Requirements**
 
-### Section 5.8 Quorum
-Current version:
-```
-A quorum for conducting the business of the Board of Directors at any meeting shall 
-be a majority of the Board of Directors.
-```
+> 🆕 **New Version**
+> ```
+> A quorum for conducting the business of the Board of Directors at any meeting shall 
+> be five Directors. In the event there are not a sufficient number of Directors 
+> seated, the remaining Directors shall have the authority to direct emergency 
+> elections to fill the vacant seats until a quorum exists consistent with 6.5.
+> ```
+>
+> 📜 **Current Version**
+> ```
+> A quorum for conducting the business of the Board of Directors at any meeting shall 
+> be a majority of the Board of Directors.
+> ```
 
-Proposed version:
-```
-A quorum for conducting the business of the Board of Directors at any meeting shall 
-be five Directors. In the event there are not a sufficient number of Directors seated, 
-the remaining Directors shall have the authority to direct emergency elections to fill 
-the vacant seats until a quorum exists consistent with 6.5.
-```
+### Section 5.9 Meeting Transparency
 
-### Section 5.9 Board Meetings and Transparency
-<table>
-<tr>
-<th>Current Bylaws</th>
-<th>Proposed Changes</th>
-</tr>
-<tr>
-<td>
-- Closed meetings<br>
-- Limited release of minutes<br>
-- President controls record-keeping
-</td>
-<td>
-- Recorded meetings<br>
-- Available to membership<br>
-- Executive Director maintains records<br>
-- Clear criteria for executive sessions
-</td>
-</tr>
-</table>
+➕ **New Requirements**
+| Aspect | Current | Proposed |
+|--------|----------|-----------|
+| Meeting Access | Closed meetings | Recorded and available to membership |
+| Minutes | Limited release | Published with executive session protection |
+| Record Keeping | President controlled | Executive Director responsibility |
 
 ## Article 6 - Elections
 
-### Major Changes Summary
-<table>
-<tr>
-<th>Topic</th>
-<th>Current Bylaws</th>
-<th>Proposed Changes</th>
-</tr>
-<tr>
-<td>Presidential Position</td>
-<td>4-year elected position</td>
-<td>Position eliminated</td>
-</tr>
-<tr>
-<td>Director Terms</td>
-<td>4-year terms</td>
-<td>3-year terms</td>
-</tr>
-<tr>
-<td>New Position</td>
-<td>N/A</td>
-<td>Director at Large elected by full membership</td>
-</tr>
-<tr>
-<td>Recall Process</td>
-<td>No specific process</td>
-<td>Member-initiated with 70% vote threshold</td>
-</tr>
-</table>
+### 🗳️ Major Electoral Changes
 
-### Section 6.2 Recall of Directors
-<span style="background-color: #e6ffe6">New Section Added:
+#### Position and Term Changes
+| Element | Current | Proposed |
+|---------|----------|-----------|
+| Presidential Position | 4-year elected position | ❌ Eliminated |
+| Director Terms | 4-year terms | 3-year terms |
+| New Position | N/A | ➕ Director at Large (full membership election) |
+
+#### ➕ New Recall Process
 ```
 Directors can be recalled by a vote of the membership. Recall votes can be initiated 
 by a member petition containing the signatures of 150 active members qualified to 
 vote in the election for that director or 20% of the total votes in that Directors 
-most recent election, whichever is greater. A recall vote shall require an affirmative 
-vote of 70% of votes cast to recall the Director and trigger a special election.
-```</span>
+most recent election, whichever is greater. A recall vote shall require an 
+affirmative vote of 70% of votes cast to recall the Director and trigger a special 
+election.
+```
 
 ## Article 7 - Management Structure
 
-### Major Structural Changes
-<table>
-<tr>
-<th>Element</th>
-<th>Current Structure</th>
-<th>Proposed Structure</th>
-</tr>
-<tr>
-<td>Chief Executive</td>
-<td>President (elected position)</td>
-<td>Executive Director (hired position)</td>
-</tr>
-<tr>
-<td>Operational Authority</td>
-<td>Shared between President and Managing Director</td>
-<td>Centralized under Executive Director</td>
-</tr>
-<tr>
-<td>Financial Control</td>
-<td>Multiple signing authorities with limits</td>
-<td>Board approval required for all non-budgeted items</td>
-</tr>
-<tr>
-<td>Staff Oversight</td>
-<td>Mixed reporting structure</td>
-<td>Clear reporting lines to Executive Director</td>
-</tr>
-</table>
+### 👥 Leadership Model Changes
 
-### Executive Leadership Comparison
-<table>
-<tr>
-<th>Current President Role</th>
-<th>Proposed Executive Director Role</th>
-</tr>
-<tr>
-<td>
-- Part-time elected position<br>
-- Serves as Board Chair<br>
-- Operational and ceremonial duties<br>
-- Fixed term of office
-</td>
-<td>
-- Full-time professional position<br>
-- Reports to Board<br>
-- Clear operational focus<br>
-- Serves at pleasure of Board
-</td>
-</tr>
-</table>
+#### Executive Structure
+| Position | Current | Proposed |
+|----------|----------|-----------|
+| Chief Executive | Elected President | Professional Executive Director |
+| Reporting | President reports to members | Executive Director reports to Board |
+| Term | Fixed 4-year term | Serves at pleasure of Board |
+| Type | Part-time position | Full-time professional position |
 
-### Required Qualifications
-<table>
-<tr>
-<th>Current Requirements (President)</th>
-<th>Proposed Requirements (Executive Director)</th>
-</tr>
-<tr>
-<td>
-- US Citizen<br>
-- Area resident<br>
-- Range Officer certification<br>
-- Life Member<br>
-- 5-year member minimum
-</td>
-<td>
-- Professional management experience<br>
-- Business administration background<br>
-- Non-profit management experience preferred<br>
-- No membership requirements specified
-</td>
-</tr>
-</table>
-
-### Core Responsibilities Change
-
-Current President's Duties:
+#### ➕ Executive Director Core Responsibilities
 ```
-- Serve as Chairperson of the Board
-- Preside at corporate meetings
-- Appoint Corporate Secretary
-- Serve as/designate Match Director
-- Attend all National/International matches
-- Serve as IPSC Regional Director
-- Implement Board policies
+i.) develop and promote strategies for the long-term health and growth of the 
+    Practical Shooting sports
+ii.) Create and implement an annual budget
+iii.) Create and implement a 3-year plan for National Matches
+iv.) Supervise and manage all organization employees
+v.) Provide the Directors with a monthly report and immediate report of all notices 
+    or adverse events
+vi.) Shall have signing authority to pay expenses of the organization from the 
+    operating account that are authorized and budgeted by the Board
 ```
 
-Proposed Executive Director's Duties:
+#### ❌ Eliminated Presidential Duties
 ```
-- Develop and promote strategic plans
-- Create and implement annual budget
-- Create 3-year National Match plan
-- Supervise all organization employees
-- Provide monthly reports to Board
-- Manage operating account expenses
-- Implement Board policies
+i.) Serve as Chairperson of the Board of Directors
+ii.) preside at all corporate meetings
+iii.) appoint the Corporate Secretary
+iv.) serve as/designate Match Director
+v.) Attend all National/International matches
+vi.) Serve as IPSC Regional Director
 ```
+
+### 📋 Board Authority Changes
+
+#### Financial Control
+| Aspect | Current | Proposed |
+|--------|----------|-----------|
+| Signing Authority | Multiple individuals with limits | Board approval required |
+| Budget Control | Annual with deficit options | Strict budget adherence |
+| Emergency Spending | President discretion | Board approval required |
 
 ## Article 8 - Committees
 
-### Committee Structure Changes
-<table>
-<tr>
-<th>Committee</th>
-<th>Current Bylaws</th>
-<th>Proposed Changes</th>
-</tr>
-<tr>
-<td>Audit Committee</td>
-<td>Report to Board, no publication requirement</td>
-<td>Report to Board, must be posted with minutes</td>
-</tr>
-<tr>
-<td>Finance Committee</td>
-<td>Basic oversight role</td>
-<td>Enhanced reporting and review requirements</td>
-</tr>
-<tr>
-<td>IPSC/World Shoot Committee</td>
-<td>Not specified</td>
-<td>New committee with specific oversight</td>
-</tr>
-</table>
+### 🔄 Committee Structure Updates
 
-### Section 8.4 IPSC/World Shoot Committee
-<span style="background-color: #e6ffe6">New Section Added:
+#### ➕ New Committee Framework
+| Committee | Current Role | Proposed Role |
+|-----------|--------------|---------------|
+| Audit | Internal reporting | Public reporting with minutes |
+| Finance | Basic oversight | Enhanced reporting requirements |
+| IPSC/World Shoot | Not specified | New strategic committee |
+
+#### ➕ New IPSC/World Shoot Committee
 ```
 The Chair of this Committee shall be elected by the Board and will be the Regional 
 Director and serves at the pleasure of the Board. This Committee is responsible for 
-implementing all IPSC and World Shoot activities or as further instructed by the Board. 
-The Chair will provide monthly activity reports to the Board at least 5 days prior to 
-each Board meeting.
-```</span>
+implementing all IPSC and World Shoot activities or as further instructed by the 
+Board. The Chair will provide monthly activity reports to the Board at least 5 days 
+prior to each Board meeting.
+```
 
 ## Article 9 - Confidentiality
 
-### Major Changes in Information Access
-<table>
-<tr>
-<th>Aspect</th>
-<th>Current Bylaws</th>
-<th>Proposed Changes</th>
-</tr>
-<tr>
-<td>Board Meetings</td>
-<td>Closed meetings with limited information release</td>
-<td>Recorded meetings available to membership</td>
-</tr>
-<tr>
-<td>Executive Sessions</td>
-<td>No specific criteria</td>
-<td>Clear categories defined</td>
-</tr>
-<tr>
-<td>Member Access</td>
-<td>Limited access to information</td>
-<td>Structured access rights under Delaware law</td>
-</tr>
-<tr>
-<td>Record Keeping</td>
-<td>Physical records emphasis</td>
-<td>Electronic database system</td>
-</tr>
-</table>
+### 🔒 Information Access Changes
 
-### Executive Session Categories
-<span style="background-color: #e6ffe6">New Specific Categories Added:
-1. Financial strategy and pending contracts
-2. Employee matters
-3. Legal advice and privilege
-4. Member discipline appeals
-5. Board-determined confidential matters</span>
+#### Meeting Transparency
+| Element | Current | Proposed |
+|---------|----------|-----------|
+| Board Meetings | Closed by default | Recorded and available |
+| Executive Sessions | Undefined | Clear criteria defined |
+| Member Access | Limited | Structured under Delaware law |
 
-### Section 9.2 Membership Access to Information
-Current version:
+#### ➕ New Executive Session Categories
 ```
-No specific provisions for member access to records
+1. Discussions of future financial strategy or pending contracts not yet executed
+2. Specific employee matters, including but not limited to hiring, performance 
+   evaluations, discipline, or termination
+3. Legal advice and updates from retained counsel, including matters protected by 
+   attorney-client privilege
+4. Member discipline appeals, at the member's option
+5. Any other matter where the Board determines, by a majority vote, that 
+   confidentiality is necessary
 ```
 
-Proposed version:
-```
-Upon reasonable written request and subject to the limitations set forth herein, 
-members shall be entitled to inspect the books and records of the Organization, 
-in accordance with Delaware General Corporation Law Section 220.
-```
+#### 📝 Member Access Rights
+
+> 🆕 **New Version**
+> ```
+> Upon reasonable written request and subject to the limitations set forth herein, 
+> members shall be entitled to inspect the books and records of the Organization, 
+> in accordance with Delaware General Corporation Law Section 220.
+> ```
+>
+> 📜 **Current Version**
+> ```
+> No specific provisions for member access to records beyond basic membership 
+> information.
+> ```
 
 ## Article 10 - Area Divisions
 
-### Section Structure Changes
-<table>
-<tr>
-<th>Element</th>
-<th>Current Bylaws</th>
-<th>Proposed Changes</th>
-</tr>
-<tr>
-<td>Section Leadership</td>
-<td>Individual Section Coordinators</td>
-<td>Section Coordinators with elected Chair</td>
-</tr>
-<tr>
-<td>Area Championships</td>
-<td>Area Director as primary authority</td>
-<td>Shared authority with Section Chair</td>
-</tr>
-<tr>
-<td>Financial Reporting</td>
-<td>Basic accounting requirements</td>
-<td>Enhanced documentation and reporting</td>
-</tr>
-</table>
+### 🏢 Organizational Structure Changes
 
-### Area Management Structure
-Current version:
-```
-The Area Director shall assist the Section Coordinators within the Area in whatever 
-way possible to promote the Corporation and its goals
-```
+#### Section Leadership Model
+| Element | Current | Proposed |
+|---------|----------|-----------|
+| Leadership Structure | Individual Section Coordinators | Section Coordinators with elected Chair |
+| Area Authority | Area Director primary | Shared with Section Chair |
+| Meeting Requirements | Not specified | Annual meeting required |
 
-Proposed version:
-```
-Each Area may be further divided into two or more Sections, but the Sections shall 
-elect a single Section Coordinator as Chair at their first Section meeting of the 
-year by majority vote. The Area Director may also serve as the Section Chair if 
-elected by the Section Coordinators or if the Section Coordinators fail to do so
-```
+#### 📝 Area Management Structure
 
-### Section Coordinator Role Changes
-<table>
-<tr>
-<th>Responsibility</th>
-<th>Current Bylaws</th>
-<th>Proposed Changes</th>
-</tr>
-<tr>
-<td>Coordination</td>
-<td>Individual section management</td>
-<td>Collaborative with Section Chair</td>
-</tr>
-<tr>
-<td>Meetings</td>
-<td>Not specified</td>
-<td>Annual meeting requirement</td>
-</tr>
-<tr>
-<td>Match Scheduling</td>
-<td>Individual section basis</td>
-<td>Coordinated through Section Chair</td>
-</tr>
-</table>
+> 🆕 **New Version**
+> ```
+> Each Area may be further divided into two or more Sections, but the Sections shall 
+> elect a single Section Coordinator as Chair at their first Section meeting of the 
+> year by majority vote. The Area Director may also serve as the Section Chair if 
+> elected by the Section Coordinators or if the Section Coordinators fail to do so.
+> ```
+>
+> 📜 **Current Version**
+> ```
+> The Area Director shall assist the Section Coordinators within the Area in whatever 
+> way possible to promote the Corporation and its goals.
+> ```
+
+### 📋 Section Coordinator Role Updates
+
+#### Responsibilities Matrix
+| Function | Current | Proposed |
+|----------|----------|-----------|
+| Section Management | Independent operation | Collaborative with Chair |
+| Match Coordination | Individual scheduling | Coordinated through Chair |
+| Reporting Structure | To Area Director | To Area Director and Section Chair |
+
+#### ➕ New Annual Requirements
+```
+viii.) meet annually to elect a chair and coordinate activities and scheduling of 
+       matches.
+```
 
 ## Article 11 - National Teams and Championship Slots
 
-### National Team Selection
-No substantive changes in selection process, but organizational reporting structure modified:
+### 🏆 Team Selection Process
 
-<table>
-<tr>
-<th>Aspect</th>
-<th>Current Bylaws</th>
-<th>Proposed Changes</th>
-</tr>
-<tr>
-<td>Selection Authority</td>
-<td>Board with Presidential input</td>
-<td>Board with Committee recommendation</td>
-</tr>
-<tr>
-<td>Process Oversight</td>
-<td>President as IPSC Regional Director</td>
-<td>IPSC/World Shoot Committee Chair as Regional Director</td>
-</tr>
-</table>
+#### Authority Structure
+| Element | Current | Proposed |
+|---------|----------|-----------|
+| Selection Authority | Board with President | Board with Committee |
+| IPSC Representation | President as RD | Committee Chair as RD |
+| Process Oversight | Presidential | Committee-based |
+
+#### Selection Criteria
+**No substantive changes in criteria, but modified reporting structure**
 
 ## Article 12 - Notices
 
-### Communication Changes
-<table>
-<tr>
-<th>Element</th>
-<th>Current Bylaws</th>
-<th>Proposed Changes</th>
-</tr>
-<tr>
-<td>Primary Method</td>
-<td>Multiple methods allowed</td>
-<td>Electronic communication primary</td>
-</tr>
-<tr>
-<td>Member Responsibility</td>
-<td>Not specified</td>
-<td>Must maintain current email</td>
-</tr>
-<tr>
-<td>Waiver of Notice</td>
-<td>Written consent required</td>
-<td>Automatic if email not maintained</td>
-</tr>
-</table>
+### 📨 Communication Requirements
 
-### Notice Requirements
-Current version:
-```
-Whenever any notice is required to be given by these bylaws, it may be given 
-personally or sent by mail, telephone, or other form of communication
-```
+#### 📝 Notice Delivery Changes
 
-Proposed version:
-```
-All notices shall first be given electronically and members are responsible for 
-providing the organization with a current email address. Failure to provide and 
-maintain a current email address shall constitute a waiver of notice
-```
+> 🆕 **New Version**
+> ```
+> All notices shall first be given electronically and members are responsible for 
+> providing the organization with a current email address. Failure to provide and 
+> maintain a current email address shall constitute a waiver of notice.
+> ```
+>
+> 📜 **Current Version**
+> ```
+> Whenever any notice is required to be given by these bylaws, it may be given 
+> personally or sent by mail, telephone, or other form of communication.
+> ```
+
+#### Member Responsibilities
+| Aspect | Current | Proposed |
+|--------|----------|-----------|
+| Contact Info | Optional methods | Required email |
+| Notice Waiver | Written consent | Automatic if no email |
+| Primary Communication | Multiple methods | Electronic primary |
 
 ## Article 13 - Amendments and Effective Date
 
-### Amendment Process Changes
-<table>
-<tr>
-<th>Element</th>
-<th>Current Bylaws</th>
-<th>Proposed Changes</th>
-</tr>
-<tr>
-<td>Voting Requirement</td>
-<td>3/4 of Board Members present</td>
-<td>6 affirmative Board Member votes</td>
-</tr>
-<tr>
-<td>Notice Period</td>
-<td>7 days</td>
-<td>10 days</td>
-</tr>
-</table>
+### 📜 Amendment Process Changes
+
+#### Voting Requirements
+| Element | Current | Proposed |
+|---------|----------|-----------|
+| Vote Threshold | 3/4 of present | 6 affirmative votes |
+| Notice Period | 7 days | 10 days |
+| Documentation | Not specified | Published with minutes |
 
 ## Article 14 - Competition Rules and NROI
 
-### Structural Changes
-<table>
-<tr>
-<th>Element</th>
-<th>Current Structure</th>
-<th>Proposed Structure</th>
-</tr>
-<tr>
-<td>NROI Status</td>
-<td>Division of USPSA</td>
-<td>Department of USPSA</td>
-</tr>
-<tr>
-<td>Rules Committee</td>
-<td>Advisory role</td>
-<td>Primary authority for rules</td>
-</tr>
-<tr>
-<td>NROI Director</td>
-<td>Reports to Board</td>
-<td>Reports to Executive Director</td>
-</tr>
-</table>
+### 🎯 Organizational Structure
 
-### Rules Process Changes
-Current process:
-```
-Changes to USPSA Division rules affecting personal competition equipment will 
-follow the process outlined below except when changes are required to comply 
-with federal laws
-```
+#### NROI Position
+| Element | Current | Proposed |
+|---------|----------|-----------|
+| Status | Division of USPSA | Department of USPSA |
+| Reporting | To Board | To Executive Director |
+| Rule Authority | Advisory | Primary authority |
 
-Proposed process:
-```
-Competition Rules and equipment requirements shall be maintained by a Rules 
-Committee established within the National Range Officers Institute which shall 
-create and maintain policies and procedures including a member code of conduct 
-and disciplinary system
-```
+#### 📝 Rules Process
 
-### Rule Change Timeline Comparison
-<table>
-<tr>
-<th>Stage</th>
-<th>Current Timeline</th>
-<th>Proposed Timeline</th>
-</tr>
-<tr>
-<td>Committee Review</td>
-<td>Due by August 1st</td>
-<td>No fixed date</td>
-</tr>
-<tr>
-<td>Member Comment Period</td>
-<td>90 days minimum</td>
-<td>30 days</td>
-</tr>
-<tr>
-<td>Implementation</td>
-<td>January 31st following year</td>
-<td>Upon Board approval</td>
-</tr>
-</table>
+> 🆕 **New Version**
+> ```
+> Competition Rules and equipment requirements shall be maintained by a Rules 
+> Committee established within the National Range Officers Institute which shall 
+> create and maintain policies and procedures including a member code of conduct 
+> and disciplinary system.
+> ```
+>
+> 📜 **Current Version**
+> ```
+> Changes to USPSA Division rules affecting personal competition equipment will 
+> follow the process outlined below except when changes are required to comply 
+> with federal laws.
+> ```
 
-### NROI Director Role
-<table>
-<tr>
-<th>Current Responsibilities</th>
-<th>Proposed Responsibilities</th>
-</tr>
-<tr>
-<td>
-- Report to Board directly<br>
-- Attend Board meetings<br>
-- Manage NROI operations<br>
-- Coordinate with President
-</td>
-<td>
-- Report to Executive Director<br>
-- Chair Rules Committee<br>
-- Manage NROI department<br>
-- Maintain rule set and divisions
-</td>
-</tr>
-</table>
+#### Rule Change Timeline
+| Stage | Current | Proposed |
+|-------|----------|-----------|
+| Committee Review | August 1 deadline | Ongoing process |
+| Member Comment | 90 days | 30 days |
+| Implementation | January 31 | Upon approval |
 
-## Summary of Key Governance Changes
+### 🎖️ NROI Director Role Changes
 
-### Overall Structural Changes
-<table>
-<tr>
-<th>Area</th>
-<th>Primary Changes</th>
-<th>Impact</th>
-</tr>
-<tr>
-<td>Leadership</td>
-<td>From elected President to professional Executive Director</td>
-<td>Professional management of operations</td>
-</tr>
-<tr>
-<td>Board Role</td>
-<td>From operational to strategic oversight</td>
-<td>Enhanced focus on long-term planning</td>
-</tr>
-<tr>
-<td>Member Voice</td>
-<td>Added Director at Large and recall provisions</td>
-<td>Increased member representation</td>
-</tr>
-<tr>
-<td>Transparency</td>
-<td>Enhanced access to information and meetings</td>
-<td>Greater organizational accountability</td>
-</tr>
-</table>
+#### Responsibility Comparison
+| Area | Current | Proposed |
+|------|----------|-----------|
+| Reporting Line | Direct to Board | To Executive Director |
+| Meeting Role | Board attendance | Committee Chair |
+| Authority | Operational | Departmental |
+| Policy Role | Advisory | Primary authority |
+
+## Summary of Governance Modernization
+
+### 🔄 Key Structural Changes
+
+#### Organizational Evolution
+| Area | From | To |
+|------|------|-----|
+| Leadership | Elected operational | Professional management |
+| Board Focus | Operational oversight | Strategic governance |
+| Member Voice | Limited channels | Multiple engagement paths |
+| Transparency | Restricted access | Enhanced accessibility |
+
+#### 📈 Impact Analysis
+| Change | Purpose | Expected Outcome |
+|--------|----------|-----------------|
+| Professional Management | Operational efficiency | Enhanced service delivery |
+| Strategic Board | Long-term planning | Sustainable growth |
+| Enhanced Transparency | Member engagement | Increased trust |
+| Modernized Communications | Efficient information flow | Better member connection |
