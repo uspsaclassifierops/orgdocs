@@ -91,25 +91,51 @@ Other classes of membership and their requirements may be established from time 
 The Board of Directors shall determine the amount of dues required for membership. An individual member's annual dues are payable on the anniversary date of the individual member's admission to USPSA. Club dues are payable on the first of each calendar year and at initiation. Clubs that initially affiliate with USPSA on or after October 1 shall be affiliated until December 31 of the following year. Clubs are additionally liable for the activity fees for each contestant in all USPSA affiliated shooting contests hosted by that member club. Memberships of any type are non-transferable, non-assignable, and non-refundable.
 
 ### Section 4.7 Discipline of Membership
-Any member or affiliated club may be disciplined by the Board, up to and including termination. The Board of Directors may suspend or terminate any member should they determine that the member likely has engaged in acts of moral turpitude or has been found to have violated the organizations code of conduct for members. A suspended or terminated member may not participate nor officiate in any USPSA sanctioned events and will not have any of the rights of membership, including voting. With the concurrence of 3 Board members a member may be suspended until a special meeting can be scheduled, not later than 7 days from the suspension.
 
-The member will be notified of the suspension, which shall remain in effect until the next regular Board meeting. The Member shall be:
+#### 4.7.1 Authority
+The Board of Directors shall have the authority to discipline, suspend, or terminate membership when a member's conduct is determined to be inconsistent with the organization's mission, code of conduct, or policies. This authority may be exercised through procedures established in the organization's policies.
 
-1. Informed of the specific reason for such suspension;
+#### 4.7.2 Grounds for Discipline
+1. Violation of the organization's code of conduct, safety policies, or competition rules
+2. Actions that threaten the safety or integrity of the sport
+3. Criminal conviction directly related to the member's participation in the sport
+4. Other conduct specifically defined in the organization's policies as grounds for discipline
 
-2. Given the opportunity to present any evidence in response at the next regular Board meeting;
+#### 4.7.3 Interim Suspension
+1. The Board of Directors, with concurrence of three Board members, may implement an interim suspension if there is a reasonable belief that:
+   a. The member's continued participation poses an immediate risk to person or property
+   b. The member's continued participation would significantly disrupt operations
+2. Any interim suspension must be reviewed at a special Board meeting within 7 days
 
-3. Given the option of having the matter heard in open or executive session;
+#### 4.7.4 Due Process Rights
+Any member subject to disciplinary action shall be entitled to:
+1. Written notice specifying:
+   a. The specific policy violations or conduct at issue
+   b. The proposed disciplinary action
+   c. The basis for the action
+2. Opportunity to respond and present evidence
+3. A fair hearing before the Board or its designated committee
+4. A written decision with findings of fact
+5. Right to appeal as established in organization policies
 
-4. Notified within 7 days of the Boards decision.
+#### 4.7.5 Timeline and Notice
+1. Written notice must be provided at least 14 days before any disciplinary hearing
+2. The member must be informed of their right to:
+   a. Present evidence
+   b. Have the matter heard in open or executive session
+   c. Appeal the decision
+3. Written decision must be provided within 7 days of the hearing
 
-The membership may be terminated without return of dues:
+#### 4.7.6 Appeals
+1. Appeals procedures shall be established in organization policies
+2. Appeals must be filed within 30 days of the written decision
+3. The Board shall establish an appeals committee separate from the initial hearing body
 
-1. Upon written request of the member;
+#### 4.7.7 Reinstatement
+Procedures for reinstatement following suspension or termination shall be established in organization policies.
 
-2. Upon the death or dissolution of the member;
-
-3. By vote of the Board of Directors as set forth above.
+#### 4.7.8 Documentation
+All disciplinary proceedings shall be documented and records maintained in accordance with the organization's record retention policies.
 
 ### Section 4.8 Non-Payment of Dues or Fees
 Any member shall be deemed inactive from the membership for non-payment of dues or fees. Member clubs may be terminated from membership if they have not paid the dues or activity fees by Feb 15th of each year. Those member clubs terminated for non-payment of dues or fees must pay the affiliation dues of a new club when re-affiliating. No money paid to the Corporation shall be refunded to members or affiliates unless it can be established that the amount so paid is in excess of that due the Corporation.
