@@ -463,12 +463,21 @@ Changes to USPSA Division rules will follow the process outlined below except wh
 The National Range Officer's Institute (NROI) is a department of USPSA charged with developing and implementing safety-centered education, rules, member conduct policies, divisions and officiating policies for USPSA matches.
 
 ### Section 14.5 NROI Director
-The NROI Director shall oversee the implementation of the institute and chair the Rules committee and serves at the pleasure of the Executive Director and/or the Board. NROI Director shall:
 
-1. Hold a current NROI Range Master Instructor (RMI) or equivalent certification, or obtain same as soon as practicable after hiring;
+The NROI Director shall be appointed by and report to the Executive Director. The NROI Director is responsible for implementing and maintaining the safety and officiating standards of the organization through the National Range Officers Institute. The NROI Director shall:
 
-2. Enforce the principles, ideals, rules and guidelines, as set forth by the Board of Directors and officers of the organization;
+1. Hold a current NROI Range Master Instructor (RMI) or equivalent certification, or obtain same within six months of appointment;
 
-3. Oversee and maintain the rule set, divisions and code of conduct and update as necessary;
+2. Implement and enforce the rules, policies and procedures approved by the Board of Directors;
 
-4. Inform the Executive Director of all NROI and International Range Officers Association (IROA) matters affecting the Corporation.
+3. Serve as a member of the Rules Committee;
+
+4. Develop and maintain training programs and certification standards for range officials;
+
+5. Oversee the implementation of safety protocols and officiating standards at all levels of competition;
+
+6. Maintain records of all certified range officials and their status;
+
+7. Provide regular reports to the Executive Director on NROI operations, including any matters affecting the Corporation's relationship with IROA.
+
+The NROI Director's appointment may be terminated by the Executive Director, subject to review by the Board of Directors.
