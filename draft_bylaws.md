@@ -249,12 +249,27 @@ The Board shall be responsible for hiring and supervising an executive director 
 
 5. Provide the Directors with a monthly report and immediate report of all notices or adverse events potentially effecting the organization;
 
-6. Shall have signing authority to pay expenses of the organization from the operating account that are authorized and budgeted by the Board.
+6. Shall have signing authority for operational expenses within limits established by Board policy and the approved budget.
 
-### Section 7.2 Board of Directors
-Shall elect a Chair and Vice Chair at the first meeting of each year.
+### Section 7.2 Financial Authority
 
-The Board of Directors has sole signing authority and no document shall be signed or executed by the organization without Board approval. All signatures required shall be provided by the Chair or Vice Chair.
+The Board of Directors shall:
+
+1. Establish and maintain policies defining financial authority limits including:
+   - Executive Director's operational spending authority
+   - Required approvals for expenses exceeding defined thresholds
+   - Contract and agreement execution requirements
+   - Capital expenditure approvals
+   - Investment decision authority
+
+2. Elect a Chair and Vice Chair at the first meeting of each year who shall be authorized to execute documents in accordance with Board-approved policies.
+
+3. Review and approve an annual budget.
+
+4. Make publicly available to the membership:
+   - Annual budget
+   - Quarterly financial statements
+   - Annual audit or financial review results
 
 ### Section 7.3 Year
 The fiscal year of the Corporation shall be a calendar year.
@@ -276,7 +291,26 @@ There shall be an Audit Committee consisting of three members of the Board of Di
 When the accounting firm has prepared the audit or review report, it shall be transmitted to the Chairman of the Audit Committee who shall present it to the Board of Directors for approval at their next Regular meeting and it shall be posted with the Meeting minutes.
 
 ### Section 8.3 Finance Committee
-There shall be a Finance Committee selected annually, consisting of at least the Executive director and two Board members. The Finance Committee shall oversee the transfer of funds between reserve and operational accounts and shall serve as financial advisors to the Corporation's financial agents. At least annually the Finance Committee shall present the Board with a detailed report of Operational investment account opening and closing balances together with a review of activity. This report shall be attached to the meeting minutes.
+
+There shall be a Finance Committee selected annually, consisting of at least the Executive Director and two Board members. The Finance Committee shall:
+
+1. Oversee the transfer of funds between reserve and operational accounts in accordance with Board-approved investment policies;
+
+2. Provide oversight of external financial service providers including but not limited to:
+   - Investment managers
+   - Banks and financial institutions  
+   - Accounting firms
+   - Bookkeeping services
+
+3. Present quarterly reports to the Board including:
+   - Budget performance
+   - Investment account activity and balances
+   - Cash flow projections
+   - Significant financial events or concerns
+
+4. Review and recommend updates to financial policies annually.
+
+All reports shall be attached to meeting minutes and made available to membership except where confidentiality requirements apply.
 
 ### Section 8.4 IPSC/World Shoot Committee
 The Chair of this Committee shall be elected by the Board and will be the Regional Director and serves at the pleasure of the Board. This Committee is responsible for implementing all IPSC and World Shoot activities or as further instructed by the Board. The Chair will provide monthly activity reports to the Board at least 5 days prior to each Board meeting.
